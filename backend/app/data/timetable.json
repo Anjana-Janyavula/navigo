@@ -1,0 +1,38 @@
+[
+  {
+    "day": "Monday",
+    "period": "1",
+    "subject": "Data Structures",
+    "room": "Shastra S101"
+  },
+  {
+    "day": "Monday",
+    "period": "2",
+    "subject": "DBMS",
+    "room": "Shastra S102"
+  },
+  {
+    "day": "Tuesday",
+    "period": "2",
+    "subject": "Digital Electronics",
+    "room": "Vidhra V104"
+  },
+  {
+    "day": "Wednesday",
+    "period": "2",
+    "subject": "DBMS Lab",
+    "room": "Shastra CSE Lab"
+  },
+  {
+    "day": "Thursday",
+    "period": "1",
+    "subject": "Electronics Lab",
+    "room": "Vidhra ECE Lab"
+  },
+  {
+    "day": "Friday",
+    "period": "2",
+    "subject": "Library Hour",
+    "room": "Vidhra Library"
+  }
+]

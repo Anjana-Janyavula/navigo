@@ -1,0 +1,104 @@
+{
+  "locations": [
+    {
+      "id": "main_gate",
+      "name": "Main Gate",
+      "aliases": ["main gate", "gate"]
+    },
+    {
+      "id": "shastra_block",
+      "name": "Shastra Block",
+      "aliases": ["shastra block", "shastra"]
+    },
+    {
+      "id": "sarvesta_block",
+      "name": "Sarvesta Block",
+      "aliases": ["sarvesta block", "sarvesta"]
+    },
+    {
+      "id": "vidhra_block",
+      "name": "Vidhra Block",
+      "aliases": ["vidhra block", "vidhra"]
+    },
+    {
+      "id": "library",
+      "name": "Library",
+      "aliases": ["library", "central library"]
+    },
+    {
+      "id": "cse_lab",
+      "name": "CSE Lab",
+      "aliases": ["cse lab", "cse", "computer science lab", "lab"]
+    },
+    {
+      "id": "eee_lab",
+      "name": "EEE Lab",
+      "aliases": ["eee lab", "eee"]
+    },
+    {
+      "id": "ece_lab",
+      "name": "ECE Lab",
+      "aliases": ["ece lab", "ece"]
+    },
+    {
+      "id": "mechanical_lab",
+      "name": "Mechanical Laboratory",
+      "aliases": ["mechanical laboratory", "mechanical lab", "mech lab"]
+    },
+    {
+      "id": "girls_hostel",
+      "name": "Kshetra Girls Hostel",
+      "aliases": ["kshetra girls hostel", "girls hostel", "hostel"]
+    },
+    {
+      "id": "boys_hostel",
+      "name": "Boys Hostel",
+      "aliases": ["boys hostel", "boys hostel block"]
+    },
+    {
+      "id": "main_auditorium",
+      "name": "Main Auditorium",
+      "aliases": ["main auditorium", "auditorium", "main aud"]
+    },
+    {
+      "id": "open_auditorium",
+      "name": "Open Auditorium",
+      "aliases": ["open auditorium", "open aud"]
+    },
+    {
+      "id": "stadium",
+      "name": "Cricket Stadium",
+      "aliases": ["cricket stadium", "stadium"]
+    },
+    {
+      "id": "canteen",
+      "name": "Canteen",
+      "aliases": ["canteen", "food court"]
+    },
+    {
+      "id": "bakery",
+      "name": "Bakery",
+      "aliases": ["bakery", "snack shop"]
+    },
+    {
+      "id": "chopsticks",
+      "name": "Chopsticks",
+      "aliases": ["chopsticks", "restaurant"]
+    },
+    {
+      "id": "garden",
+      "name": "Garden Area",
+      "aliases": ["garden area", "garden"]
+    },
+    {
+      "id": "book_store",
+      "name": "Book Store",
+      "aliases": ["book store", "bookshop"]
+    },
+    {
+      "id": "mechanical_area",
+      "name": "Other Sheds / Mechanical Laboratory Area",
+      "aliases": ["other sheds", "mechanical laboratory area", "mechanical area"]
+    }
+  ]
+}
